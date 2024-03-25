@@ -1,0 +1,50 @@
+nav {
+    background-color: #333; 
+    color: #fff; 
+    padding: 10px 0; 
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+}
+nav ul {
+    list-style-type: none; 
+    margin: 0; 
+    padding: 0; 
+    display: flex; 
+}
+nav li {
+    margin: 0 10px; 
+}
+nav .left {
+    margin-right: auto; 
+}
+nav .right {
+    margin-left: auto; 
+}
+nav a {
+    color: #fff; 
+    text-decoration: none; 
+}
+h1{
+    color: white;
+    text-align: center;
+}
+.wel{
+    color: black;
+    background-color: yellow;
+    padding: 30px;
+}
+img{
+    height: 500px;
+    width: 1500px;
+}
+.img1{
+    height: 400px;
+    width: 800px;
+    float: right;
+}
+.img2{
+    height: 400px;
+    width: 800px;
+    float: left;
+}
